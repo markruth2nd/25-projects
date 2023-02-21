@@ -9,8 +9,9 @@ Purpose of challenge 1 is to use HTML, CSS & JavaScript to create a page where I
     CSS will amend the size of the div on the page as well as the alignment of the button on the page.
     JS file will create the function which will change the background colour when I click the bootstrap button, screenshots below:
 
-    JS function: [![Alt text](Project-1-colours/images/P1%20JS.png)]
-    Final Outcome: [![Alt text](Project-1-colours/images/P1%20outcome.png)]
+    # Screenshots:
+    JS function: (Project-1-colours/images/P1%20JS.png)
+    Final Outcome: (Project-1-colours/images/P1%20outcome.png)
 
 Challenge 1 completed. 21/02/23
 

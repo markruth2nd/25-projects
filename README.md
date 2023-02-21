@@ -1,2 +1,17 @@
-# 25-pojects
+# 25-projects
 25 projects challenge
+
+This is a challenge I have assigned myself for practise where I will complete 25 projects as quick as I can, I am hoping to complete all 25 within 5-6 weeks. 
+
+Challenge 1:
+Purpose of challenge 1 is to use HTML, CSS & JavaScript to create a page where I can change the background colour of the page at the click of a button.
+    In the HTML file I will only need to create 1 div within the body for the button to click. I will add a link to Bootstrap cdn for the button I will use.
+    CSS will amend the size of the div on the page as well as the alignment of the button on the page.
+    JS file will create the function which will change the background colour when I click the bootstrap button, screenshots below:
+
+    JS function: [![Alt text](Project-1-colours/images/P1%20JS.png)]
+    Final Outcome: [![Alt text](Project-1-colours/images/P1%20outcome.png)]
+
+Challenge 1 completed. 21/02/23
+
+Challenge 2:

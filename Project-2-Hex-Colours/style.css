@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Mynerve&display=swap');
+
+body {
+    font-family: 'Mynerve', cursive;
+}
+
+.container {
+    border: 1px solid black;
+
+    width: 95%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hex-colours{
+    border: 1px solid black;
+
+    text-align: center;
+}
+
+.hex-colours h1{
+    font-size: 2rem;
+    text-transform: uppercase;
+    animation: colourChange 5s infinite alternate;
+}
+
+.hex-colours h2{
+    border: 1px solid black;
+    font-size: 2rem;
+    margin-top: 15%;
+}
+
+@keyframes colourChange{
+    0%{
+        color: indigo;
+    }
+    20%{
+        color: blue;
+    }
+    40%{
+        color: green;
+    }
+    60%{
+        color: yellow;
+    }
+    80%{
+        color: orange;
+    }
+    100%{
+        color: red;
+    }
+}
+
+@media(max-width: 480px) {
+    .hex-colours h1{
+        font-size: 1.5rem;
+    }
+    .hex-colours h2{
+        font-size: 1.5rem;
+    }
+}

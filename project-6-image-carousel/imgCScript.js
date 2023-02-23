@@ -10,7 +10,7 @@ function show_image(i){
     var dots = document.getElementsByClassName("dot");
 
     for(i = 0; i < images.length;i++)
-    images[i].style.displau = "none";
+    images[i].style.display = "none";
 
     for(i = 0; i< dots.length;i++)
     dots[i].className = dots[i].className.replace(" active", "");

@@ -1,4 +1,4 @@
-[![alt-text](https://img.shields.io/depfu/dependencies/github/Movies%20Page?color=success&label=search4movies&logo=github&style=for-the-badge)]
+![alt-text](https://img.shields.io/depfu/dependencies/github/Movies%20Page?color=success&label=search4movies&logo=github&style=for-the-badge)
 
 # 25-projects
 25 projects challenge

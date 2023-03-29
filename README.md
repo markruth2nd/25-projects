@@ -1,6 +1,13 @@
 ![alt-text](https://img.shields.io/depfu/dependencies/github/Movies%20Page?color=success&label=search4movies&logo=github&style=for-the-badge)
 
-![Yusuf](https://img.shields.io/badge/yusuf-player3-green)
+![Mark](https://img.shields.io/badge/Mark-Contributed-blue
+)
+
+![Marlena](https://img.shields.io/badge/Marlena-Contributed-blueviolet)
+
+![Yusuf](https://img.shields.io/badge/Yusuf-Contributed-green)
+
+![Ric](https://img.shields.io/badge/Ric-Contributed-9cf)
 
 # 25-projects
 25 projects challenge

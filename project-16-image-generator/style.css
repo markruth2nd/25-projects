@@ -64,7 +64,7 @@ input:focus{
     position: absolute;
     top: 25%;
     right: 4%;
-    transition: 1.5s;
+    transition: .8s;
 }
 
 .search-box i:hover{

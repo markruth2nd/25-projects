@@ -14,7 +14,11 @@ function loadImg(){
 
 }
 
-//The below function will remove all images from the screen, this will be used when the user puts in a new search.
+//The below function will remove all images from the screen, this will be used when the user puts in a new search by setting the grids in the innerhtml to an empty string.
+function removeImages(){
+    grid.innerHTML = "";
+}
+
 
 //The below is the function in which I will have the webpage auto change the day or night mode by using Date() & getHours() functions within JS. Then I will apply an if statement using the date and time for JS to render the page in day mode by amending the css style if hours between 7am - 19pm, otherwise it will display the page in nightmode.
 function dayNightMode(){

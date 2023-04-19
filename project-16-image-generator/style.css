@@ -88,3 +88,29 @@ input:focus{
     border-radius: 2px;
 }
 
+@media(max-width: 780px) {
+    .img{
+        width: 100%;
+    }
+    .nav{
+        justify-content: center;
+    }
+    .nav h2{
+        padding: 5px 0;
+    }
+}
+
+@media(max-width:480px){
+    .nav h2{
+        text-align: center;
+        font-size: 1.4rem;
+    }
+
+    .search-box{
+        width: 80%;
+        margin: auto;
+    }
+    .search-box input{
+        font-size: .7rem;
+    }
+}

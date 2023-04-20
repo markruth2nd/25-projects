@@ -17,7 +17,7 @@ function loadImg(){
     const url = 'https://api.unsplash.com/search/photos/?query='+input.value+'&per_page=20&client_id=e1zulXfjCefdiAxIa0jCcbwIp-eqo5DTjz4Bp6b16tM';
     
     //using fetch will make the request to the URL
-    fetch('https://api.unsplash.com/search/photos/?query=CHICKEN&per_page=20&client_id=e1zulXfjCefdiAxIa0jCcbwIp-eqo5DTjz4Bp6b16tM', {
+    fetch('https://api.unsplash.com/search/photos/?query=CHICKEN&per_page=20&client_id=-R6ETRtjnDaxnEtESeBjACkO8b9xuYKwX55zmFSAPdM', {
     mode: 'no-cors'})
 
     //The below is a promise which will make the request

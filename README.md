@@ -3,11 +3,11 @@
 ![Mark](https://img.shields.io/badge/Mark-Contributed-blue
 )
 
-![Marlena](https://img.shields.io/badge/Marlena-Contributed-blueviolet)
+<!-- ![Marlena](https://img.shields.io/badge/Marlena-Contributed-blueviolet)
 
 ![Yusuf](https://img.shields.io/badge/Yusuf-Contributed-green)
 
-![Ric](https://img.shields.io/badge/Ric-Contributed-9cf)
+![Ric](https://img.shields.io/badge/Ric-Contributed-9cf) -->
 
 # 25-projects
 25 projects challenge

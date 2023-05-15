@@ -40,7 +40,7 @@ function loadImg(){
                 })
                 grid.appendChild(imageNodes[i]);
             }
-        })
+        });
 }
 
 //The below function will remove all images from the screen, this will be used when the user puts in a new search by setting the grids in the innerhtml to an empty string.

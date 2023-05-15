@@ -1,9 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Mynerve&display=swap");
-
 body {
     font-family: 'Mynerve', cursive;
 }
-
 .container {
     width: 95%;
     height: 100vh;
@@ -11,22 +9,18 @@ body {
     justify-content: center;
     align-items: center;
 }
-
 .hex-colours{
     text-align: center;
 }
-
 .hex-colours h1{
     font-size: 2rem;
     text-transform: uppercase;
     animation: colourChange 5s infinite alternate;
 }
-
 .hex-colours h2{
     font-size: 2rem;
     margin-top: 15%;
 }
-
 @keyframes colourChange{
     0%{
         color: indigo;
